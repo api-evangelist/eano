@@ -1,0 +1,201 @@
+openapi: 3.1.0
+info:
+  title: Eano API
+  version: '2026-10-24'
+  description: 'GENERATED FROM DOCUMENTATION by API Evangelist on 2026-10-24: 3 operation(s) read from 2 public documentation page(s) (each operation
+    names its page in x-source). This is not the provider''s published contract; Eano has published no machine-readable contract that the pipeline
+    could find. Engine: local.'
+  x-evidence-tiers:
+    code-example: 0
+    documentation: 3
+    pages-with-code: 0
+    pages-read: 2
+  x-generated-from: documentation
+  x-provenance: generated
+  x-authored-by: API Evangelist
+  x-generated: '2026-10-24'
+  x-generator: generate-contract-from-docs.py
+  x-engine: local
+  x-sources:
+  - https://developer.eano.com/docs/apis/bids
+  - https://developer.eano.com/docs/apis/projects
+paths:
+  /api/v1/external/bids:
+    get:
+      operationId: get_api_v1_external_bids
+      tags:
+      - Api
+      summary: Getting Project Bids
+      x-source: https://developer.eano.com/docs/apis/bids
+      parameters:
+      - name: project_id
+        in: query
+        required: false
+        schema:
+          type: integer
+        description: The ID of the Project
+      responses:
+        '200':
+          description: Success (status as documented)
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GetApiV1ExternalBidsResponse'
+      x-evidence:
+        kind: documentation
+  /api/v1/external/projects:
+    post:
+      operationId: post_api_v1_external_projects
+      tags:
+      - Api
+      summary: This API allows you to create a new Project to get bids from the Eano Network.
+      x-source: https://developer.eano.com/docs/apis/projects
+      parameters:
+      - name: client_name
+        in: query
+        required: false
+        schema:
+          type: string
+        description: Name of the client (tenant, homeowner, etc.) who owns or occupies the space where the work will take place
+      - name: phone_number
+        in: query
+        required: false
+        schema:
+          type: string
+        description: Phone number for the primary point of contact on the work
+      - name: email
+        in: query
+        required: false
+        schema:
+          type: string
+        description: Email address of the primary point of contact for the work
+      - name: project_address
+        in: query
+        required: false
+        schema:
+          type: string
+        description: Location where the project is taking place
+      - name: scope
+        in: query
+        required: false
+        schema:
+          type: object
+        description: A JSON-encoded blob that describes the scope of work
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/PostApiV1ExternalProjectsRequest'
+      responses:
+        '201':
+          description: Success (status as documented)
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/PostApiV1ExternalProjectsResponse'
+      x-evidence:
+        kind: documentation
+  /api/v1/external/projects/{id}:
+    get:
+      operationId: get_api_v1_external_projects_id
+      tags:
+      - Api
+      summary: For a Project that’s been submitted, pulling the Project info gives a variety of data about the Project.
+      x-source: https://developer.eano.com/docs/apis/projects
+      parameters:
+      - name: id
+        in: path
+        required: true
+        schema:
+          type: string
+      responses:
+        '200':
+          description: Success (status as documented)
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GetApiV1ExternalProjectsIdResponse'
+      x-evidence:
+        kind: documentation
+components:
+  schemas:
+    GetApiV1ExternalBidsResponse:
+      type: object
+      properties:
+        code:
+          type: integer
+        message:
+          type: string
+        data:
+          type: object
+        data.project_id:
+          type: integer
+        data.bids:
+          type: array
+        data.bids[].bidding_id:
+          type: integer
+        data.bids[].created_at:
+          type: integer
+        data.bids[].expires_at:
+          type: integer
+        data.bids[].total:
+          type: integer
+        data.bids[].currency:
+          type: string
+        data.bids[].user:
+          type: object
+        data.bids[].user.name:
+          type: string
+        data.bids[].user.profile_image_url:
+          type: string
+    PostApiV1ExternalProjectsRequest:
+      type: object
+      properties:
+        client_name:
+          type: string
+        phone_number:
+          type: string
+        email:
+          type: string
+        project_address:
+          type: string
+        scope:
+          type: array
+          description: Array of objects with project_type and title
+      required:
+      - client_name
+      - phone_number
+      - email
+      - project_address
+      - scope
+    PostApiV1ExternalProjectsResponse:
+      type: object
+      properties:
+        code:
+          type: integer
+        message:
+          type: string
+        data:
+          type: object
+          description: Contains the created project details
+    GetApiV1ExternalProjectsIdResponse:
+      type: object
+      properties:
+        code:
+          type: integer
+        message:
+          type: string
+        data:
+          type: object
+          description: Contains detailed project information including milestones
+  securitySchemes:
+    API_Key:
+      type: apiKey
+      in: header
+      name: Authorization
+      x-source: https://help.eano.com/en/articles/13404456-editing-your-contract-and-signing-it-in-app.md
+tags:
+- name: Api
+security:
+- API_Key: []

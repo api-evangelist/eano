@@ -1,0 +1,16 @@
+generated: '2026-10-24'
+method: searched
+generator: extract-docs-artifacts.py (local)
+source: https://developer.eano.com/docs/apis/webhooks/
+sources:
+- https://developer.eano.com/docs/apis/webhooks/
+- https://help.eano.com/en/articles/12559932-change-order-new-notifications.md
+- https://help.eano.com/en/articles/15557074-managing-your-notifications-in-eano-pro.md
+- https://help.eano.com/en/articles/12559951-turning-client-sms-notifications-on-and-off.md
+description: Eano provides a webhook interface that currently supports Milestone updates.
+events:
+- event: milestone.updated
+  description: Encodes a Milestone at the point it’s been updated.
+delivery:
+  content_type: application/json
+docs: https://developer.eano.com/docs/apis/webhooks/

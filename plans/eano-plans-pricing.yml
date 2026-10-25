@@ -1,0 +1,50 @@
+generated: '2026-10-24'
+method: searched
+generator: extract-docs-artifacts.py (local)
+source: https://www.eano.com/pricing
+sources:
+- https://www.eano.com/pricing
+- https://help.eano.com/en/articles/15485434-uploading-plans-for-an-ai-takeoff.md
+- https://help.eano.com/en/articles/16199230-what-s-the-difference-between-the-plans.md
+- https://help.eano.com/en/articles/17507628-pricing-ai-estimates-from-your-cost-book-and-home-depot.md
+name: Eano pricing
+audience: business-product
+pricing_basis: per-seat
+plans:
+- name: Estimator
+  price_text: $25 /month
+  price: 25
+  billing_period: monthly
+- name: Estimator
+  price_text: $299/year
+  price: 299
+  billing_period: yearly
+- name: Starter
+  price_text: $49 /month
+  price: 49
+  billing_period: monthly
+- name: Starter
+  price_text: $588/year
+  price: 588
+  billing_period: yearly
+- name: Pro
+  price_text: $159 /month
+  price: 159
+  billing_period: monthly
+- name: Pro
+  price_text: $1,908/year
+  price: 1908
+  billing_period: yearly
+- name: Multi-team Add-on
+  price_text: $400/month
+  price: 400
+  billing_period: monthly
+- name: Multi-team Add-on
+  price_text: $4,000/year
+  price: 4000
+  billing_period: yearly
+- name: Takeoff Concierge Add-on
+  price_text: $299 per month
+  price: 299
+  billing_period: monthly
+docs: https://www.eano.com/pricing

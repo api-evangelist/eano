@@ -1,0 +1,156 @@
+# Eano Help Center
+
+> Help center for Eano Pro
+
+## Tutorial Videos
+
+- [Feature Breakdown & Tutorials: Learn What Each Tool Does and How to Use It](https://help.eano.com/en/articles/12634942-feature-breakdown-tutorials-learn-what-each-tool-does-and-how-to-use-it.md): Learn what each feature does and how to use it. Watch out for new features too!
+
+## Blogs / Articles
+
+- [Buildertrend Competitors: 4 Alternatives to Consider](https://help.eano.com/en/articles/13394585-buildertrend-competitors-4-alternatives-to-consider.md): Is Buildertrend the best fit for you? This guide walks through 4 competing platforms, comparing key features, costs, and ideal use cases.
+
+## Getting Started
+
+- [Welcome to Eano Pro](https://help.eano.com/en/articles/12634752-welcome-to-eano-pro.md)
+- [Uploading Plans for an AI Takeoff](https://help.eano.com/en/articles/15485434-uploading-plans-for-an-ai-takeoff.md)
+- [Sending an Initial Proposal Before the Final Contract](https://help.eano.com/en/articles/15519883-sending-an-initial-proposal-before-the-final-contract.md)
+- [What the Help Chat Can \(and Can't\) Do for You](https://help.eano.com/en/articles/15588349-what-the-help-chat-can-and-can-t-do-for-you.md)
+- [What's the Difference Between the Plans?](https://help.eano.com/en/articles/16199230-what-s-the-difference-between-the-plans.md)
+- [Canceling Your Plan](https://help.eano.com/en/articles/16199231-canceling-your-plan.md)
+- [Contracts Waiting for Your Signature](https://help.eano.com/en/articles/16397135-contracts-waiting-for-your-signature.md)
+- [Asking Eano to Do It for You: Ask AI](https://help.eano.com/en/articles/16532568-asking-eano-to-do-it-for-you-ask-ai.md)
+- [Language Preferences](https://help.eano.com/en/articles/16696323-language-preferences.md)
+- [Nudging Your Client About an Unsigned Quote: Send Reminder](https://help.eano.com/en/articles/17613817-nudging-your-client-about-an-unsigned-quote-send-reminder.md)
+- [Your Eano Account Is on Hold: What It Means and How to Fix It](https://help.eano.com/en/articles/17614100-your-eano-account-is-on-hold-what-it-means-and-how-to-fix-it.md)
+- [Log In to Eano Pro](https://help.eano.com/en/articles/12334890-log-in-to-eano-pro.md): How To Log In to Eano Pro Dashboard website
+- [Using the Eano Pro Desktop App](https://help.eano.com/en/articles/12559979-using-the-eano-pro-desktop-app.md)
+- [Setting Up Your Business Profile](https://help.eano.com/en/articles/12559862-setting-up-your-business-profile.md)
+- [Calendar Scheduling](https://help.eano.com/en/articles/12559864-calendar-scheduling.md)
+- [How To Start an Estimate & Edit Scope Price](https://help.eano.com/en/articles/12334900-how-to-start-an-estimate-edit-scope-price.md): Creating an Opportunity and Building your Quote
+- [How To Preview As Your Client and Send Out The Proposal](https://help.eano.com/en/articles/12559871-how-to-preview-as-your-client-and-send-out-the-proposal.md)
+- [Editing Your Contract and Signing It In-App](https://help.eano.com/en/articles/13404456-editing-your-contract-and-signing-it-in-app.md): Eano Pro’s updated contract experience makes it easier to create accurate contracts, reuse your own templates, and complete signing without leaving the app.
+- [Who Can See Your Quote, and When](https://help.eano.com/en/articles/13764162-who-can-see-your-quote-and-when.md): Sending Quotes, Using Preflight Checks & Understanding Client Visibility
+- [Choosing What Your Client Sees on a Quote](https://help.eano.com/en/articles/12559991-choosing-what-your-client-sees-on-a-quote.md)
+- [Auto-Filling Client Details on Opportunities and Projects](https://help.eano.com/en/articles/12559985-auto-filling-client-details-on-opportunities-and-projects.md)
+- [Your Project's Overview Tab](https://help.eano.com/en/articles/12956778-your-project-s-overview-tab.md)
+- [Uploading an Existing Project or Template](https://help.eano.com/en/articles/12582832-uploading-an-existing-project-or-template.md)
+
+## Set Up Your Estimates & Scopes
+
+- [Showcasing Finishes with Options and Finishes](https://help.eano.com/en/articles/15504517-showcasing-finishes-with-options-and-finishes.md)
+- [Organizing Your Scope into Groups](https://help.eano.com/en/articles/15647920-organizing-your-scope-into-groups.md)
+- [Using Multi-Cost-Type Rows in Your Cost Book](https://help.eano.com/en/articles/15705910-using-multi-cost-type-rows-in-your-cost-book.md)
+- [Editing Your Scope with Magic Edit](https://help.eano.com/en/articles/15876748-editing-your-scope-with-magic-edit.md)
+- [Choosing Who's "Prepared By" on Your Documents](https://help.eano.com/en/articles/16006084-choosing-who-s-prepared-by-on-your-documents.md): How the Prepared By block on proposals, quotes, and invoices gets its name and contact info, and how to configure it.
+- [Project Templates: Bundling Your Scope, Milestones, and Tasks Into One Reusable Setup](https://help.eano.com/en/articles/16040854-project-templates-bundling-your-scope-milestones-and-tasks-into-one-reusable-setup.md)
+- [Adding a Cover Page and an About Page to Your Proposal PDF](https://help.eano.com/en/articles/16442805-adding-a-cover-page-and-an-about-page-to-your-proposal-pdf.md): Use Configure PDF to open your proposal with a cover photo and a page introducing your company and team.
+- [Exporting Your Scope to a PDF or a Spreadsheet](https://help.eano.com/en/articles/16783571-exporting-your-scope-to-a-pdf-or-a-spreadsheet.md)
+- [Adding Photos to an AI Estimate](https://help.eano.com/en/articles/16804937-adding-photos-to-an-ai-estimate.md)
+- [Building an Estimate from a Video Walkthrough](https://help.eano.com/en/articles/17002298-building-an-estimate-from-a-video-walkthrough.md): Record a walkthrough on your phone and let Eano turn it into a scope of work.
+- [Turning a Project Template Into a Package You Can Sell](https://help.eano.com/en/articles/17005726-turning-a-project-template-into-a-package-you-can-sell.md)
+- [Pricing AI Estimates from Your Cost Book and Home Depot](https://help.eano.com/en/articles/17507628-pricing-ai-estimates-from-your-cost-book-and-home-depot.md): Choose whether AI estimates and takeoffs price from your Cost Book, The Home Depot, both, or neither.
+- [Offering Clients Choices with Selection Groups](https://help.eano.com/en/articles/15554382-offering-clients-choices-with-selection-groups.md)
+- [More about Setting Up Payments with Milestones](https://help.eano.com/en/articles/12559912-more-about-setting-up-payments-with-milestones.md)
+- [How to Setup Cost Book](https://help.eano.com/en/articles/12559914-how-to-setup-cost-book.md)
+- [Editing an Estimate from the Mobile App](https://help.eano.com/en/articles/12559915-editing-an-estimate-from-the-mobile-app.md)
+- [Building and Reusing Scope Templates](https://help.eano.com/en/articles/12559917-building-and-reusing-scope-templates.md)
+- [Building an Estimate on the Go with the AI Chat Assistant](https://help.eano.com/en/articles/12559919-building-an-estimate-on-the-go-with-the-ai-chat-assistant.md)
+- [Client-Selectable Scope Options](https://help.eano.com/en/articles/13624488-client-selectable-scope-options.md): Layout all the Scope Of Work options for your clients to choose from. It’s a faster way to handle negotiation without creating extra work for your team. \*Available on Pro plans and above.
+
+## Manage Projects Like a Pro 
+
+- [Making Your Views Your Own: Collapsing Stages and Customizing Columns](https://help.eano.com/en/articles/15532653-making-your-views-your-own-collapsing-stages-and-customizing-columns.md)
+- [Starting a Project When the Contract Was Signed Outside Eano](https://help.eano.com/en/articles/15564077-starting-a-project-when-the-contract-was-signed-outside-eano.md)
+- [Understanding Project Progress](https://help.eano.com/en/articles/15567445-understanding-project-progress.md)
+- [Deleting or Archiving an Opportunity](https://help.eano.com/en/articles/15649198-deleting-or-archiving-an-opportunity.md)
+- [Building and Adjusting Your Schedule in the Gantt View](https://help.eano.com/en/articles/15879028-building-and-adjusting-your-schedule-in-the-gantt-view.md)
+- [Previewing What Your Client Sees on an Active Project](https://help.eano.com/en/articles/15935938-previewing-what-your-client-sees-on-an-active-project.md)
+- [Generating Tasks and a Schedule from Your Scope](https://help.eano.com/en/articles/16019763-generating-tasks-and-a-schedule-from-your-scope.md)
+- [Printing Your Schedule: Exporting the Calendar to PDF](https://help.eano.com/en/articles/16113056-printing-your-schedule-exporting-the-calendar-to-pdf.md)
+- [Finding a Project, Opportunity, or Invoice Fast](https://help.eano.com/en/articles/16529235-finding-a-project-opportunity-or-invoice-fast.md)
+- [Automatic Task Coloring](https://help.eano.com/en/articles/16680598-automatic-task-coloring.md): Set up color rules once and Eano applies them to new tasks, existing tasks, and tasks generated from your scope.
+- [Keeping Weekends and Holidays Off Your Schedule](https://help.eano.com/en/articles/17003998-keeping-weekends-and-holidays-off-your-schedule.md)
+- [Organizing Your Tags into Groups](https://help.eano.com/en/articles/17032392-organizing-your-tags-into-groups.md)
+- [Setting Up Recurring Tasks](https://help.eano.com/en/articles/17665433-setting-up-recurring-tasks.md): Make a task repeat daily, on weekdays, weekly, or monthly, and how to change or stop the series.
+- [Dashboard Overview & Task Reminders Guide](https://help.eano.com/en/articles/12559927-dashboard-overview-task-reminders-guide.md)
+- [Organizing Work with the Tasks Tab](https://help.eano.com/en/articles/12559929-organizing-work-with-the-tasks-tab.md)
+- [How to Use Eano Pro's Subcontracts Feature](https://help.eano.com/en/articles/12559930-how-to-use-eano-pro-s-subcontracts-feature.md)
+- [Creating and Sending Change Orders](https://help.eano.com/en/articles/12559931-creating-and-sending-change-orders.md)
+- [Change Order - New Notifications](https://help.eano.com/en/articles/12559932-change-order-new-notifications.md)
+- [Organizing Your Projects with Tags](https://help.eano.com/en/articles/13766908-organizing-your-projects-with-tags.md)
+
+## Manage Your Team & Vendors
+
+- [Merging Duplicate Vendors and Subcontractors](https://help.eano.com/en/articles/15655986-merging-duplicate-vendors-and-subcontractors.md)
+- [How Subcontractors Access and Post Daily Logs](https://help.eano.com/en/articles/16042026-how-subcontractors-access-and-post-daily-logs.md)
+- [How to View and Submit a Subcontractor Bid](https://help.eano.com/en/articles/16053966-how-to-view-and-submit-a-subcontractor-bid.md)
+- [Add Team Members and Assign Roles](https://help.eano.com/en/articles/12559936-add-team-members-and-assign-roles.md)
+- [Understanding Roles and Access Permissions](https://help.eano.com/en/articles/12559938-understanding-roles-and-access-permissions.md)
+- [Adding Your Team and Using Clock-In / Clock-Out](https://help.eano.com/en/articles/12559940-adding-your-team-and-using-clock-in-clock-out.md)
+- [How to Add Subcontractors/Vendors to Your Eano Account](https://help.eano.com/en/articles/12559947-how-to-add-subcontractors-vendors-to-your-eano-account.md)
+- [Managing Dual Roles \(Team Member and Subcontractor\)](https://help.eano.com/en/articles/12956490-managing-dual-roles-team-member-and-subcontractor.md): Managing Dual Roles in Eano Pro: What’s Supported Today
+- [Subcontracts, Work Orders, and Purchase Orders: Choosing the Right Kind](https://help.eano.com/en/articles/13260935-subcontracts-work-orders-and-purchase-orders-choosing-the-right-kind.md): Subcontracts in Eano Pro are now easier to create and manage, with clearer agreement types for subcontracts, work orders, and purchase orders—plus simpler subcontractor setup and cleaner service ar...
+
+## Communicate with Clients
+
+- [Eano Pro Chat with Homeowners](https://help.eano.com/en/articles/12559950-eano-pro-chat-with-homeowners.md)
+- [Phone Number Requirements \(and International Numbers\)](https://help.eano.com/en/articles/15588386-phone-number-requirements-and-international-numbers.md)
+- [Letting Clients Know About Tasks You've Assigned Them](https://help.eano.com/en/articles/16132801-letting-clients-know-about-tasks-you-ve-assigned-them.md)
+- [Putting Your Own Branding on Your Client Login Page](https://help.eano.com/en/articles/16220079-putting-your-own-branding-on-your-client-login-page.md)
+- [Sharing Outside Links with Your Clients](https://help.eano.com/en/articles/16774028-sharing-outside-links-with-your-clients.md): Pin up to four external links — mood boards, shopping carts, your own selections site — to a project's client portal.
+
+## Log Daily Progress On-Site
+
+- [Automatic Weather Records with Weather Bot](https://help.eano.com/en/articles/16529496-automatic-weather-records-with-weather-bot.md): Turn on Weather Bot to post a daily log of the recorded weather at your job site.
+- [Mentioning Teammates in Daily Logs](https://help.eano.com/en/articles/17676951-mentioning-teammates-in-daily-logs.md): Type @ in a daily log to notify a teammate or subcontractor, and track unread mentions on your Dashboard.
+- [How to Upload Photo and Notes to Eano Pro Daily Logs](https://help.eano.com/en/articles/12559952-how-to-upload-photo-and-notes-to-eano-pro-daily-logs.md)
+- [3 Ways to Upload Photos & Notes as Daily Logs](https://help.eano.com/en/articles/12559954-3-ways-to-upload-photos-notes-as-daily-logs.md)
+- [Using WhatsApp for Daily Logs with Eano Construction Bot](https://help.eano.com/en/articles/12559957-using-whatsapp-for-daily-logs-with-eano-construction-bot.md)
+- [Marking Up Photos in Daily Logs](https://help.eano.com/en/articles/13048167-marking-up-photos-in-daily-logs.md): Quickly draw, circle, and highlight details on jobsite photos — directly from the Eano Pro mobile app.
+
+## Track Payments & Expenses
+
+- [How to track your expenses in Eano Pro](https://help.eano.com/en/articles/12559962-how-to-track-your-expenses-in-eano-pro.md)
+- [Billing on a Cost-Plus Basis](https://help.eano.com/en/articles/15485385-billing-on-a-cost-plus-basis.md)
+- [Credit Card Fees and Refunds: How They Work for You and Your Clients](https://help.eano.com/en/articles/15485571-credit-card-fees-and-refunds-how-they-work-for-you-and-your-clients.md)
+- [What Your Payment Milestone Statuses Mean](https://help.eano.com/en/articles/15591137-what-your-payment-milestone-statuses-mean.md)
+- [Fixing and Preventing Duplicates in Your QuickBooks Sync](https://help.eano.com/en/articles/15650123-fixing-and-preventing-duplicates-in-your-quickbooks-sync.md)
+- [Syncing Projects with QuickBooks](https://help.eano.com/en/articles/15808717-syncing-projects-with-quickbooks.md)
+- [Managing Invoices: Drafts, Voiding, and Line Items](https://help.eano.com/en/articles/16040616-managing-invoices-drafts-voiding-and-line-items.md)
+- [Billing Partial Progress Against a Milestone](https://help.eano.com/en/articles/16053794-billing-partial-progress-against-a-milestone.md)
+- [Tracking Operating Expenses \(OpEx\)](https://help.eano.com/en/articles/16132009-tracking-operating-expenses-opex.md)
+- [Recording Check Numbers and Payment Notes](https://help.eano.com/en/articles/16200135-recording-check-numbers-and-payment-notes.md)
+- [Offering Client Financing with Acorn Finance](https://help.eano.com/en/articles/16529867-offering-client-financing-with-acorn-finance.md): Let clients apply for financing on their final quote through Acorn Finance.
+- [Tracking Your Budget by Scope Item](https://help.eano.com/en/articles/16775449-tracking-your-budget-by-scope-item.md): See your expenses pivoted onto your scope, so you can watch each line's budget burn down.
+- [When Your Client Pays Part of an Invoice: Recording Partial and Split Payments](https://help.eano.com/en/articles/17572088-when-your-client-pays-part-of-an-invoice-recording-partial-and-split-payments.md): Record several payments against one invoice and keep track of the balance still owed.
+- [Tagging Expenses with Cost Codes from Your Cost Book](https://help.eano.com/en/articles/17639644-tagging-expenses-with-cost-codes-from-your-cost-book.md): Tag each expense with a cost code from your Cost Book, then filter spending by trade.
+- [Turning Scope Items into Expenses with Import Scope Expenses](https://help.eano.com/en/articles/12559986-turning-scope-items-into-expenses-with-import-scope-expenses.md)
+- [How to Receive a Payment](https://help.eano.com/en/articles/12559960-how-to-receive-a-payment.md)
+- [Creating Invoices in Eano Pro](https://help.eano.com/en/articles/12559965-creating-invoices-in-eano-pro.md)
+- [Automate Your Expense Tracking in Eano Pro](https://help.eano.com/en/articles/12559970-automate-your-expense-tracking-in-eano-pro.md)
+- [New! Upload PDFs for Instant Expense Tracking in Eano Pro](https://help.eano.com/en/articles/12559971-new-upload-pdfs-for-instant-expense-tracking-in-eano-pro.md)
+- [How to Add a New Vendor in Eano Pro \(Auto-Vendor Creation\)](https://help.eano.com/en/articles/12559972-how-to-add-a-new-vendor-in-eano-pro-auto-vendor-creation.md)
+- [Milestone-Generated Invoices](https://help.eano.com/en/articles/12939436-milestone-generated-invoices.md)
+- [Export Income Data from the Finance](https://help.eano.com/en/articles/13218761-export-income-data-from-the-finance.md): Export Project-Specific, Global, or Date-Specific Income data
+- [Invoices from Income & Expenses](https://help.eano.com/en/articles/13329488-invoices-from-income-expenses.md): Build Invoices from Income & Expenses. Invoice faster by billing directly from the financial data you already track.
+- [How Credit Card Fee Pass-Through Works](https://help.eano.com/en/articles/13493161-how-credit-card-fee-pass-through-works.md)
+- [QuickBooks Integration Guide](https://help.eano.com/en/articles/13920030-quickbooks-integration-guide.md): Connecting Your QuickBooks Account
+- [How to Set Up Stripe in Eano](https://help.eano.com/en/articles/14118630-how-to-set-up-stripe-in-eano.md)
+- [Tracking Expenses with Receipt Upload](https://help.eano.com/en/articles/12334907-tracking-expenses-with-receipt-upload.md): Streamline your expense management – from field to office
+- [Setting Up Your Payment Schedule](https://help.eano.com/en/articles/12559866-setting-up-your-payment-schedule.md)
+
+## Promote Your Business
+
+- [How to Create Your Free Contractor Website Using Eano Pro](https://help.eano.com/en/articles/12559973-how-to-create-your-free-contractor-website-using-eano-pro.md)
+- [Setting Up Your Contractor Profile on Eano Marketplace to get free leads](https://help.eano.com/en/articles/12559977-setting-up-your-contractor-profile-on-eano-marketplace-to-get-free-leads.md)
+
+## Notifications
+
+- [Managing Your Notifications in Eano Pro](https://help.eano.com/en/articles/15557074-managing-your-notifications-in-eano-pro.md)
+- [Smart Reminders for Quotes, Tasks, and Milestones](https://help.eano.com/en/articles/13218495-smart-reminders-for-quotes-tasks-and-milestones.md)
+- [Turning Client SMS Notifications On and Off](https://help.eano.com/en/articles/12559951-turning-client-sms-notifications-on-and-off.md)
+
+## Integrations
+
+- [Zapier Integration: Connecting Eano with HubSpot](https://help.eano.com/en/articles/14861273-zapier-integration-connecting-eano-with-hubspot.md)
