@@ -1,9 +1,0 @@
-generated: '2026-10-25'
-method: none
-source: https://registry.npmjs.org/-/v1/search?text=eano&size=20
-packages: []
-rejected:
-- name: create-eano
-  registry: npm
-  reason: 'registry metadata names neither the provider''s domain nor its GitHub org: official downgraded (harvest-packages.py --audit)'
-note: 'no first-party package: every candidate a model listed was unowned (harvest-packages.py --audit)'
